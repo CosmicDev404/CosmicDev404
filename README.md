@@ -12,9 +12,9 @@ I believe technology should not only work, but also *improve how humans think, l
 
 </td> 
 <td>
-  
- <img src=  "https://github.com/user-attachments/assets/c253c6b9-812b-4f70-a3c7-6de51fd0e5eb" width="1080">
-  
+ 
+<img src="https://github.com/user-attachments/assets/c253c6b9-812b-4f70-a3c7-6de51fd0e5eb" width="40%">
+
 </td> </tr></table> 
 
 > "open_source_is_❤️"
