@@ -12,8 +12,10 @@ I believe technology should not only work, but also *improve how humans think, l
 
 </td> 
 <td>
- 
-<img src="https://github.com/user-attachments/assets/c253c6b9-812b-4f70-a3c7-6de51fd0e5eb" width="50%">
+ <p align=centre>
+<img src="https://github.com/user-attachments/assets/1665c91d-41b3-4e88-9cbb-dc47e390da9f" width=350%>
+ </p>
+
 
 </td> </tr></table> 
 
