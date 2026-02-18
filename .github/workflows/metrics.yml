@@ -14,6 +14,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: CosmicDev404
           template: repository
@@ -21,16 +22,12 @@ jobs:
           committer_token: ${{ secrets.METRICS_TOKEN }} 
           output_action: commit
           committer_branch: main
-
           plugin_languages: yes
-          plugin_languages_indepth: no
-          plugin_languages_sections: most-used
+          plugin_languages_indepth: no 
+          plugin_languages_sections: most-used 
+          plugin_languages_details: bytes-size, lines, percentage 
           plugin_languages_limit: 20
-          plugin_languages_details: bytes, lines, percentage
-          plugin_languages_ignored: html, css, markdown
           plugin_languages_threshold: 0%
-
-
-          
-          # Timezone
-          config_timezone: Asia/Kolkata
+          plugin_languages_ignored: html, css, markdown
+          repositories: all
+          repositories_batch: 100
