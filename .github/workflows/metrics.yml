@@ -26,7 +26,7 @@ jobs:
           plugin_languages_indepth: false
           plugin_languages_sections: most-used
           plugin_languages_limit: 20
-          plugin_languages_details: percentage
+          plugin_languages_details: bytes, lines, percentage
           plugin_languages_ignored: html, css, markdown
           plugin_languages_threshold: 0%
 
