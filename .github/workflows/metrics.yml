@@ -5,7 +5,7 @@ on:
   push: {branches: ["master", "main"]}
 
 permissions:
-  contents: write  # This is the "magic" line you're missing
+  contents: write
   
 jobs:
   github-metrics:
