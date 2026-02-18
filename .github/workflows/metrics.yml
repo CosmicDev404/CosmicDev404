@@ -12,6 +12,10 @@ jobs:
           user: CosmicDev404
           template: classic
           base: "" # Hides the header to focus only on languages
+          # ... (your other settings)
+          committer_token: ${{ secrets.GITHUB_TOKEN }} # Use the built-in token for commits
+          output_action: commit # Force it to commit the file
+          committer_branch: main # Ensure it matches your default branch name
           
           # --- All-Time Languages Configuration ---
           plugin_languages: yes
