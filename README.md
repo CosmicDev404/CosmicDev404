@@ -29,10 +29,10 @@ I believe technology should not only work, but also *improve how humans think, l
 
 <p align=center>
 
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width=15%>
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" width=15%>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" width=15%>
-<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" width=15%>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width=20%>
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" width=20%>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" width=20%>
+<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" width=20%>
 
 </p>
 
@@ -79,7 +79,7 @@ I believe technology should not only work, but also *improve how humans think, l
 </h3>
 
 <ul> <li>An open-source spooky interactive CYOA. </li> <li>Successfully indexed on Google. </li></ul>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" width=10%> <hr>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" width=20%> <hr>
 
 <h3>
  <img src="https://raw.githubusercontent.com/CosmicDev404/Space-Explorers/refs/heads/main/CAPSULE.png" width=12% align=right>
@@ -89,7 +89,7 @@ I believe technology should not only work, but also *improve how humans think, l
 </h3>
 
 <ul><li>A pygame based simulator that employs basic physical concepts of real world aerospace engineering.</li><li>An interactive space simulator with modern graphics.</li></ul>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width=10%> <hr>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width=20%> <hr>
 
 <h3>
  <img src="https://raw.githubusercontent.com/CosmicDev404/rgb_color_reader/refs/heads/main/Assets/dig_schem.png" width=22% align=right>
@@ -99,7 +99,7 @@ I believe technology should not only work, but also *improve how humans think, l
 </h3>
 
 <ul><li>A low cost color detector made using everyday discrete electronic components. </li><li>Fully shipped project with PCB designs and Schematics along with the Firmware.</li></ul>
-<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" width=10%> <hr>
+<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" width=20%> <hr>
 
 ## 🌱 Currently Learning
 
