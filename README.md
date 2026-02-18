@@ -25,7 +25,7 @@ I believe technology should not only work, but also *improve how humans think, l
 - 🎨 Interested in the intersection of technology, design, and philosophy
 - 🌍 Aspiring to create real-world impact through education and innovation
 
-## Languages 
+## 📈 Contribution Table
 
 - Python
 - C++
@@ -37,7 +37,7 @@ I believe technology should not only work, but also *improve how humans think, l
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CosmicDev404&theme=react-dark" width=100%>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CosmicDev404&theme=tokyo-night" width=100%>
 </p>
 
 ---
