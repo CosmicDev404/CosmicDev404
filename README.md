@@ -56,9 +56,7 @@ I believe technology should not only work, but also *improve how humans think, l
 
 ## 🛠 Interests
 
-- 🤖 Arduino, MCUs & Embedded Systems  
-- 💻 Games, simulations & interactive systems  
-- ⚛️ Computer technology, physics & science  
+<h3> 🤖 Arduino, MCUs & Embedded Systems  </h3> <h3> 💻 Games, simulations & interactive systems  </h3> <h3> ⚛️ Computer technology, physics & science  </h3> 
 - 🫧 Design theory & aesthetics  
 - ✒️ Art, literature & poetry  
 - ☄️ Cosmos, inventions & discoveries  
@@ -66,6 +64,38 @@ I believe technology should not only work, but also *improve how humans think, l
 - ♟ Chess & 🏀 Basketball  
 
 ---
+
+## 🚀 Featured Projects
+
+<h3>
+ <img src="https://raw.githubusercontent.com/CosmicDev404/The-PICNIC/refs/heads/main/web-app-manifest-192x192.png" width=12% align=right>
+  <a href="https://github.com/cosmicdev404/the-PICNIC">
+    🎃 THE PICNIC:
+  </a>
+</h3>
+
+<ul> <li>An open-source spooky interactive CYOA. </li> <li>Successfully indexed on Google. </li></ul>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" width=10%> <hr>
+
+<h3>
+ <img src="https://raw.githubusercontent.com/CosmicDev404/Space-Explorers/refs/heads/main/CAPSULE.png" width=12% align=right>
+  <a href="https://github.com/cosmicdev404/Space-Explorers"> 
+    🛰️ Space Explorers:
+  </a>
+</h3>
+
+<ul><li>A pygame based simulator that employs basic physical concepts of real world aerospace engineering.</li><li>An interactive space simulator with modern graphics.</li></ul>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width=10%> <hr>
+
+<h3>
+ <img src="https://raw.githubusercontent.com/CosmicDev404/rgb_color_reader/refs/heads/main/Assets/dig_schem.png" width=22% align=right>
+  <a href="https://github.com/cosmicdev404/rgb_color_reader">
+    🌈 RGB Color Reader:
+  </a>
+</h3>
+
+<ul><li>A low cost color detector made using everyday discrete electronic components. </li><li>Fully shipped project with PCB designs and Schematics along with the Firmware.</li></ul>
+<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" width=10%> <hr>
 
 ## 🌱 Currently Learning
 
