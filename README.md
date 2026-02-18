@@ -1,23 +1,18 @@
 # 🚀 Hi, I'm Agi 👋
 
  ## 🔭 Who am I?
-
- A curious rover exploring patterns in the real world through logic, science, and rational thinking.
  
-<table> <tr> <td>
+<img align="right"
+     src="https://raw.githubusercontent.com/CosmicDev404/pfp/refs/heads/main/dp.png"
+     width="180"/>
+
+
+A curious rover exploring patterns in the real world through logic, science, and rational thinking.
 
 I’m **Agrim Sharma**, based in Uttar Pradesh, India 🇮🇳 — passionate about building systems that are **humane, aesthetic, and meaningful**.
 
 I believe technology should not only work, but also *improve how humans think, learn, and live.*
 
-</td> 
-<td>
- <p align=centre>
-<img src="https://raw.githubusercontent.com/CosmicDev404/pfp/refs/heads/main/dp.png" width=50%>
- </p>
-
-
-</td> </tr></table> 
 
 > "open_source_is_❤️"
 
@@ -29,6 +24,14 @@ I believe technology should not only work, but also *improve how humans think, l
 - 🔬 Science and rational thinking enthusiast
 - 🎨 Interested in the intersection of technology, design, and philosophy
 - 🌍 Aspiring to create real-world impact through education and innovation
+
+### Languages 
+
+- Python
+- C++
+- HTML
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CosmicDev404&theme=react-dark">
 
 ---
 
