@@ -31,7 +31,7 @@ I believe technology should not only work, but also *improve how humans think, l
 - C++
 - HTML
 
-<img src="https://github.com/CosmicDev404/CosmicDev404/blob/main/github-metrics.svg" align=center width=150%>
+<img src="https://github.com/CosmicDev404/CosmicDev404/blob/main/github-metrics.svg" align=center width=100%>
 
 ---
 
