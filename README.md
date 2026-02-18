@@ -13,7 +13,7 @@ I believe technology should not only work, but also *improve how humans think, l
 </td> 
 <td>
  <p align=centre>
-<img src="https://raw.githubusercontent.com/CosmicDev404/pfp/refs/heads/main/dp.png" width=350%>
+<img src="https://raw.githubusercontent.com/CosmicDev404/pfp/refs/heads/main/dp.png" width=50%>
  </p>
 
 
