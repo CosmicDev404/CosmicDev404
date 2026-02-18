@@ -27,6 +27,5 @@ jobs:
           plugin_languages_details: bytes-size, lines, percentage 
           plugin_languages_limit: 20
           plugin_languages_threshold: 0%
-          plugin_languages_ignored: markdown
           repositories: all
           repositories_batch: 100
