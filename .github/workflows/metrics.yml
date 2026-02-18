@@ -27,13 +27,14 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_details: bytes-size, percentage, lines
           plugin_languages_limit: 10
-          plugin_languages_sections: most-used 
+          repositories: all
           plugin_languages_recent_days: 0
           plugin_languages_recent_load: 1000
           repositories_batch: 100
           plugin_languages_ignored: html
           plugin_languages_categories: programming
           commits_authoring: CosmicDev404, agrim.sharma0007@gmail.com
+          plugin_languages_threshold: 0%
 
           
           # Timezone
