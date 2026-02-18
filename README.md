@@ -31,11 +31,14 @@ I believe technology should not only work, but also *improve how humans think, l
 - C++
 - HTML
 
-<img src="https://github.com/CosmicDev404/CosmicDev404/blob/main/github-metrics.svg" align=center width=70%>
+<p align=center>
+
+<img src="https://github.com/CosmicDev404/CosmicDev404/blob/main/github-metrics.svg" width=70%>
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CosmicDev404&theme=react-dark" align=center width=100%>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CosmicDev404&theme=react-dark" width=100%>
+</p>
 
 ---
 
