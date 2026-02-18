@@ -22,22 +22,14 @@ jobs:
           output_action: commit
           committer_branch: main
 
-          # --- All-Time Languages Configuration ---
           plugin_languages: yes
-          plugin_languages_indepth: yes
-          plugin_languages_details: bytes-size, percentage, lines
+          plugin_languages_indepth: false
           plugin_languages_sections: most-used
           plugin_languages_limit: 20
-          repositories: all
-          plugin_languages_recent_days: 0
-          plugin_languages_recent_load: 0
-          repositories_batch: 100
-          plugin_languages_ignored: html
-          plugin_languages_analysis: repositories
-          plugin_languages_only: cpp, c, python, csharp
-          plugin_languages_categories: programming
-          commits_authoring: CosmicDev404, agrim.sharma0007@gmail.com
+          plugin_languages_details: percentage
+          plugin_languages_ignored: html, css, markdown
           plugin_languages_threshold: 0%
+
 
           
           # Timezone
