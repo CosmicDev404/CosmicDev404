@@ -56,12 +56,16 @@ I believe technology should not only work, but also *improve how humans think, l
 
 ## 🛠 Interests
 
-<h3> 🤖 Arduino, MCUs & Embedded Systems  </h3> <h3> 💻 Games, simulations & interactive systems  </h3> <h3> ⚛️ Computer technology, physics & science  </h3> 
-- 🫧 Design theory & aesthetics  
-- ✒️ Art, literature & poetry  
-- ☄️ Cosmos, inventions & discoveries  
-- 🪷 History, geopolitics, culture & anthropology  
-- ♟ Chess & 🏀 Basketball  
+
+<h3> 🤖 Arduino, MCUs & Embedded Systems  </h3> <h3> 💻 Games, simulations & interactive systems  </h3> <h3> ⚛️ Computer technology, physics & science  </h3> </div>
+
+🫧 Design theory & aesthetics ·
+✒️ Art, literature & poetry ·
+☄️ Cosmos, inventions & discoveries ·
+🪷 History, geopolitics, culture & anthropology ·
+♟ Chess & 🏀 Basketball
+</p>
+
 
 ---
 
