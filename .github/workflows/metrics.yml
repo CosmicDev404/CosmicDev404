@@ -16,7 +16,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: CosmicDev404
-          template: classic
+          template: repository
           base: "" 
           committer_token: ${{ secrets.METRICS_TOKEN }} 
           output_action: commit
@@ -24,7 +24,7 @@ jobs:
 
           # --- All-Time Languages Configuration ---
           plugin_languages: yes
-          plugin_languages_indepth: yes
+          plugin_languages_indepth: no
           plugin_languages_details: bytes-size, percentage, lines
           plugin_languages_sections: most-used
           plugin_languages_limit: 20
@@ -32,7 +32,7 @@ jobs:
           plugin_languages_recent_days: 0
           plugin_languages_recent_load: 0
           repositories_batch: 100
-          plugin_languages_ignored: html
+          #plugin_languages_ignored: html
           plugin_languages_categories: programming, data, markup
           commits_authoring: CosmicDev404, agrim.sharma0007@gmail.com
           plugin_languages_threshold: 0%
