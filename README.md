@@ -23,7 +23,7 @@ I believe technology should not only work, but also *improve how humans think, l
 - 🎨 Interested in the intersection of technology, design, and philosophy
 - 🌍 Aspiring to create real-world impact through education and innovation
 
-## 📈 Contribution Metrics
+## 📈 Metrics
 
 <br>
 
