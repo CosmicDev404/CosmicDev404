@@ -37,7 +37,7 @@ I believe technology should not only work, but also *improve how humans think, l
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CosmicDev404&theme=tokyo-night" width=100%>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CosmicDev404&theme=tokyo-night&hide_border=true" width=100%>
 </p>
 
 ---
