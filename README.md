@@ -29,10 +29,10 @@ I believe technology should not only work, but also *improve how humans think, l
 
 <p align=center>
 
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width=20%>
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" width=20%>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" width=20%>
-<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" width=20%>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height=10%>
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height=10%>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height=10%>
+<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" height=10%>
 
 </p>
 
@@ -40,7 +40,7 @@ I believe technology should not only work, but also *improve how humans think, l
 
 <p align=center>
 
-<img src="https://github.com/CosmicDev404/CosmicDev404/blob/main/github-metrics.svg" width=70%>
+<img src="https://github.com/CosmicDev404/CosmicDev404/blob/main/github-metrics.svg" width=100%>
 
 </p>
 
