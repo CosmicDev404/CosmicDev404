@@ -40,7 +40,7 @@ I believe technology should not only work, but also *improve how humans think, l
 
 <p align=center>
 
-<img src="https://github.com/CosmicDev404/CosmicDev404/blob/main/github-metrics.svg" width=100%>
+<img src="https://github.com/CosmicDev404/CosmicDev404/blob/main/github-metrics.svg" width=80%>
 
 </p>
 
@@ -48,7 +48,7 @@ I believe technology should not only work, but also *improve how humans think, l
 
 <p align=center>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CosmicDev404&theme=tokyo-night&hide_border=true" width=100%>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CosmicDev404&theme=tokyo-night&hide_border=true" width=80%>
 
 </p>
 
